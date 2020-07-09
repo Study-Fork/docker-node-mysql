@@ -11,4 +11,4 @@ done
 
 # Nodejs 시작
 echo "Start nodejs"  
-node  /src/app.js
+node  /src/server.js
